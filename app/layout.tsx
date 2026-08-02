@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
-import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Your Name – Developer | Portfolio",
+  title: "Omar Abdelazim – Flutter Developer",
   description: "Portfolio website showcasing my work and experience.",
 };
 
