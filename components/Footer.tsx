@@ -16,7 +16,7 @@ export default function Footer() {
             viewport={{ once: true }}
             className="text-text-secondary text-sm"
           >
-            &copy; {new Date().getFullYear()} Your Name. All rights reserved.
+            &copy; {new Date().getFullYear()} Omar Ahmed Abdelazim.
           </motion.p>
 
           
